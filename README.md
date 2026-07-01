@@ -10,3 +10,5 @@ https://csprimer.com/
 ---
 neecode.io
 --
+https://www.udemy.com/course/reverse-engineering-malware-analysis/?couponCode=MT260629G2
+----
