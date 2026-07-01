@@ -8,7 +8,7 @@ https://pyjamacafe.com/library/
 --
 https://csprimer.com/
 ---
-www.neecode.io
+https://neecode.io
 --
 https://www.udemy.com/course/reverse-engineering-malware-analysis/?couponCode=MT260629G2
 ----
